@@ -126,9 +126,9 @@ Industrial automation using Arduino and embedded systems.
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-kumar-dev&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-kumar-dev&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&token=${{ secrets.GH_STATS_TOKEN }})
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kumar-dev&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-kumar-dev&layout=compact&theme=tokyonight&token=${{ secrets.GH_STATS_TOKEN }})
 
 ---
 
