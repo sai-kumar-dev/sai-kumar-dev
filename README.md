@@ -126,9 +126,10 @@ Industrial automation using Arduino and embedded systems.
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sai-kumar-dev&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sai-kumar-dev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sai-kumar-dev&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sai-kumar-dev&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
